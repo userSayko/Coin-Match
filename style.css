@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background: transparent;
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+#timer {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#ranking {
+  margin-top: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+
+#winner {
+  margin-top: 40px;
+  font-size: 40px;
+  text-align: center;
+  color: gold;
+}
